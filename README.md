@@ -29,7 +29,7 @@ A simple and responsive web-based random password generator built using **HTML, 
 
 1. Clone the repo:
 ```
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/khdxsohee/random-password-generator.git
 ```
 
 2. Open `index.html` in any browser.
