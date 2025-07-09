@@ -38,3 +38,7 @@ git clone https://github.com/khdxsohee/random-password-generator.git
 ## 📄 License
 
 This project is open-source and available under the [MIT License](https://github.com/khdxsohee/random-password-generator/blob/main/LICENSE).
+
+## Author Information
+
+  * **Created by:** khdxsohee
